@@ -71,11 +71,10 @@ With 8 years of diverse experience in sales, customer support, social media, and
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DYh8ITFZ8VwXH1A5Hs/giphy.gif" width="300" height="400" />
 
 [Aleksander's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alexkozminski&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)(https://github.com/alexkozminski/alexkozminski#gh-dark-mode-only)
+-->
 [Aleksander's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alexkozminski&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)(https://github.com/alexkozminski/alexkozminski#gh-light-mode-only)
-[GitHub Streak](https://streak-stats.demolab.com/?user=alexkozminski&theme=dark&hide_border=true)(https://git.io/streak-stats) -->
+[GitHub Streak](https://streak-stats.demolab.com/?user=alexkozminski&theme=dark&hide_border=true)(https://git.io/streak-stats) 
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&icon_color=57a8ff&hide_border=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats) --->
-
-
-
+<!------>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&icon_color=57a8ff&hide_border=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats) 
 
